@@ -1,3 +1,8 @@
+
+Guvi frontend is created using React.js framework and for styling tailwind css is used. 
+For alerts React-Toastify library is used
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
